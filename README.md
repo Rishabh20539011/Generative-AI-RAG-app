@@ -1,4 +1,6 @@
-**AI-Driven RAG Solution: Elevating Customer Support with Multi-Platform Data**
+# <p align="center"> **AI-Driven RAG Solution 🖥️ </p> 
+
+<p align="center"> **Elevating Customer Support with Multi-Platform Data** </p>
 
 #################################################################
 **Support Chat RAG Application Using Langchain, ChromaDB, HuggingFace, Mistral-7b, and Gradio**
