@@ -26,7 +26,7 @@ Gradio: For an interactive and user-friendly interface.
    - **Vector Database:** Utilize **ChromaDB** from the Langchain community for efficient storage and querying of vector embeddings.
    - **Embedding Model:** Opted for the **HuggingFaceEmbeddings-all-mpnet-base-v2 model**, which is based on the Sentence Transformers base model. This model  allows you to generate embeddings for  				  sentences or text passages. Since our chats consist of multiple sentences separated by special tokens, using a sentence transformer-based model is suitable for preserving the 				  structure of our conversations.
    - **Data Storage:** Store the generated embeddings along with the associated metadata (such as chat IDs,annotations, etc.) in ChromaDB.
-   - **Querying and Retrieval:** Retrieve embeddings from ChromaDB based on specific queries.
+   - **Querying and Retrieval:** Retrieve embeddings from **ChromaDB** based on specific queries.
    - **Model and Tokenizer:** The code initializes a tokenizer using the pretrained model name **'mistralai/Mistral-7B-Instruct-v0.1'**. Mistral-7B-Instruct which prioritizes accuracy and 				context-awareness.Its use of rolling buffer caching efficiently retains relevant information across sequences
    - **Efficient Model Loading:** By utilizing **4-bit precision** base model loading (use_4bit=True), the code optimizes memory usage during model loading. it reduces the memory footprint and accelerates 					  loading times.
    - **Quantization for Reduced Precision:** The code implements quantization techniques such as **"nf4" (nearest float 4-bit)** to reduce the precision of model parameters and computations.This reduction 						     in precision helps conserve memory and computation resources.
