@@ -14,11 +14,11 @@
 
 ## 🛠️**Tech Stack & Tools:**
 
-Langchain: For seamless language model integrations.
-ChromaDB: Enhancing our database querying capabilities.
-HuggingFace: Utilizing cutting-edge models for NLP.
-Mistral-7b: Leveraging its powerful generative abilities.
-Gradio: For an interactive and user-friendly interface.
+1. Langchain: For seamless language model integrations.
+2. ChromaDB: Enhancing our database querying capabilities.
+3. HuggingFace: Utilizing cutting-edge models for NLP.
+4. Mistral-7b: Leveraging its powerful generative abilities.
+5. Gradio: For an interactive and user-friendly interface.
 
 ## 👩‍💻**Project Insights**
 
