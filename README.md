@@ -3,7 +3,6 @@
 <p align="center"> **Elevating Customer Support with Multi-Platform Data** </p>
 
 
-#################################################################
 ## 🌟**Instructions to Run the Code:**
 
 1. **Open the final_rag.ipynb file** on Google Colab.
@@ -11,7 +10,7 @@
 3. **Specify the local path** of the CSV file in the first cell.
 4. **Run all the cells** to execute the code.
 5. **Interact with the Gradio interface** by asking multiple queries. (Explanations for each part are embedded between the cells).
-#################################################################
+
 
 ## 🛠️**Tech Stack & Tools:**
 
