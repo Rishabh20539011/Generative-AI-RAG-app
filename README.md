@@ -1,4 +1,4 @@
-# <p align="center"> 🚀**AI-Driven RAG Solution 🚀 </p> 
+# <p align="center"> 🚀**AI-Driven RAG Solution**🚀 </p> 
 
 <p align="center"> **Elevating Customer Support with Multi-Platform Data** </p>
 
